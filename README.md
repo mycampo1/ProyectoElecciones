@@ -6,7 +6,7 @@ Sprint 1: https://github.com/mycampo1/FlaskMongoElecciones.git
 
 Integrantes:
 
-Maicol Andres Mora Hernandez
-David Santiago	Quintero Quijano
-Marlon Yesid Campo Anacona
+Maicol Andres Mora Hernandez,
+David Santiago	Quintero Quijano,
+Marlon Yesid Campo Anacona,
 Didier William 	Romero Quintero 
