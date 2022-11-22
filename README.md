@@ -11,4 +11,5 @@ Integrantes:
 Maicol Andres Mora Hernandez,
 David Santiago	Quintero Quijano,
 Marlon Yesid Campo Anacona,
-Didier William 	Romero Quintero 
+Didier William 	Romero Quintero,
+Sarai Cristina Gonzalez Rodriguez
